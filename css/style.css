@@ -1,24 +1,24 @@
 @font-face {
   font-family: 'FuturaPT-Bold';
-  src: url("../fonts/FuturaPT-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaPT-Bold.otf") format("opentype"), url("../fonts/FuturaPT-Bold.woff") format("woff"), url("../fonts/FuturaPT-Bold.ttf") format("truetype"), url("../fonts/FuturaPT-Bold.svg#FuturaPT-Bold") format("svg");
+  src: url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Bold.eot?#iefix") format("embedded-opentype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Bold.otf") format("opentype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Bold.woff") format("woff"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Bold.ttf") format("truetype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Bold.svg#FuturaPT-Bold") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'FuturaPT-DemiBold';
-  src: url("../fonts/FuturaPT-DemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaPT-DemiBold.otf") format("opentype"), url("../fonts/FuturaPT-DemiBold.woff") format("woff"), url("../fonts/FuturaPT-DemiBold.ttf") format("truetype"), url("../fonts/FuturaPT-DemiBold.svg#FuturaPT-DemiBold") format("svg");
+  src: url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-DemiBold.eot?#iefix") format("embedded-opentype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-DemiBold.otf") format("opentype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-DemiBold.woff") format("woff"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-DemiBold.ttf") format("truetype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-DemiBold.svg#FuturaPT-DemiBold") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'FuturaPT-Book';
-  src: url("../fonts/FuturaPT-Book.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaPT-Book.woff") format("woff"), url("../fonts/FuturaPT-Book.ttf") format("truetype"), url("../fonts/FuturaPT-Book.svg#FuturaPT-Book") format("svg");
+  src: url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Book.eot?#iefix") format("embedded-opentype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Book.woff") format("woff"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Book.ttf") format("truetype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Book.svg#FuturaPT-Book") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'FuturaPT-Light';
-  src: url("../fonts/FuturaPT-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaPT-Light.woff") format("woff"), url("../fonts/FuturaPT-Light.ttf") format("truetype"), url("../fonts/FuturaPT-Light.svg#FuturaPT-Light") format("svg");
+  src: url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Light.eot?#iefix") format("embedded-opentype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Light.woff") format("woff"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Light.ttf") format("truetype"), url("https://raw.githubusercontent.com/pilievwm/site/main/fonts/FuturaPT-Light.svg#FuturaPT-Light") format("svg");
   font-weight: normal;
   font-style: normal;
 }
